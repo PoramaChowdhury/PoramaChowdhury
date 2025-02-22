@@ -1,8 +1,6 @@
 <h1 align="center">Hello!</h1>
 
-###
 
-<p align="left">I'm Porama Chowdhury<br> 🔭 I’m working as a student </p>
 
 ###
 
